@@ -1,5 +1,5 @@
 ### Welcome to RikitoNoto's Profile
-Country: Japan <image src="japan.png" height=10px/>
+Country: Japan <image src="japan.png" height=25px/>
 ## Productions
 
 ### [GanttKit](https://github.com/RikitoNoto/GanttKit)
