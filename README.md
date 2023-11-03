@@ -39,7 +39,7 @@ class RikitoNoto(Programmer):
       <td></td>
       <td>
           It's Rails Web App.</br>
-          It allow you to construct schedule used gantt chart easy.
+          It allows you to construct a schedule that be used Gantt chart easily.
       </td>
     </tr>
     <tr>
@@ -47,7 +47,7 @@ class RikitoNoto(Programmer):
       <td><image src="assets/silk_road_logo_req.png" height=50px/></td>
       <td>
         It's Flutter App.</br>
-        It allow you to transport the files and images between multi platform easy.
+        It allows you to transport files and images between multiple platforms easily.
       </td>
     </tr>
     <tr>
@@ -55,7 +55,14 @@ class RikitoNoto(Programmer):
       <td><image src="assets/camel_logo.png" height=50px/></td>
       <td>
         It's Flutter library.</br>
-        It allow you to transport the data through local network.
+        It allows you to transport the data between local networks.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RikitoNoto/japanese-school-parser">japanese-school-parser</a></td>
+      <td></td>
+      <td>
+        文部科学省が公開している大学一覧のエクセルファイルをパースし、jsonやpythonのデータとして出力するライブラリです。
       </td>
     </tr>
   </tbody>
