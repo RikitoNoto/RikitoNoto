@@ -4,7 +4,7 @@ class RikitoNoto(Programmer):
     def __init__(self):
       self.languages = ["C/C++","Python","Dart","Ruby","JS/TS"]
       self.frameworks = ["Django","Flutter","Vue","RubyOnRails"]
-      self.languages = ["AWS"]
+      self.infrastructure = ["AWS"]
 
 
     def where_am_i_from() -> str:
@@ -38,24 +38,32 @@ class RikitoNoto(Programmer):
       <td><a href="https://github.com/RikitoNoto/GanttKit">GanttKit</a></td>
       <td></td>
       <td>
-          It's Rails Web App.</br>
-          It allows you to construct a schedule that be used Gantt chart easily.
+          A Rails Web App.</br>
+          This app allows you to construct a schedule that be used Gantt chart easily.
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/RikitoNoto/silkroad">SilkRoad</a></td>
       <td><image src="assets/silk_road_logo_req.png" height=50px/></td>
       <td>
-        It's Flutter App.</br>
-        It allows you to transport files and images between multiple platforms easily.
+        A Flutter App.</br>
+        This app allows you to transport files and images between multiple platforms easily.
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/RikitoNoto/camel">Camel</a></td>
       <td><image src="assets/camel_logo.png" height=50px/></td>
       <td>
-        It's Flutter library.</br>
-        It allows you to transport the data between local networks.
+        A Flutter library.</br>
+        this library allows you to transport the data between local networks.
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/RikitoNoto/flutter_animated_icon_button?tab=readme-ov-file">flutter_animated_icon_button</a></td>
+      <td><image src="assets/animate_icon_push.gif" height=50px max-width=200px /></td>
+      <td>
+        A Flutter package.</br>
+        This package allows you to create animated icons easily.
       </td>
     </tr>
     <tr>
